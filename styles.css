@@ -1,6 +1,4 @@
-/*-----
-Fonts
------*/
+
 @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
 
 
@@ -41,9 +39,6 @@ img{
 }
 
 
-/*-----
-header
------*/
 
 header{
     position: absolute;
@@ -57,9 +52,7 @@ header .logoAlura{
     height: 48px;
 }
 
-/*-----
-main
------*/
+
 main{
     display: flex;
     flex-direction: row;
@@ -261,9 +254,7 @@ main{
     transform: scale(0.97);
 }
 
-/*-----
-main
------*/
+
 
 footer{
     margin-top: 15px;
